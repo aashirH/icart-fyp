@@ -1,0 +1,13 @@
+{
+    "Product1": {
+      "id": "1",
+      "title": "Danedar",
+      "img": "img/tapal.png",
+      "price": "300",
+      "company": "Tapal",
+      "info": "Make Refreshed",
+      "inCart": "false",
+      "total": "0",
+      "count": "0"
+    }
+  }
